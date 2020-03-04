@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Angle_Between_Hour_and_Minute_Hand_on_a_Clock</RootNamespace>
+  </PropertyGroup>
+
+</Project>
